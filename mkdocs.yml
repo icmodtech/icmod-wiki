@@ -1,0 +1,43 @@
+site_name: ICMOD WIKI
+repo_url: http://127.0.0.1:8000/
+site_url: http://127.0.0.1:8000
+use_directory_urls: false
+theme:
+  name: material
+  logo: assets/logo.png
+  features: 
+    - navigation.instant
+    - navigation.tabs
+  language: zh
+nav:
+  - 教程: 
+    - Guide: 
+      - Guide/介绍.md
+      - Guide/初步.md
+    - Blocks: 
+      - Blocks/介绍.md
+      - Blocks/初步.md
+    - Items: 
+      - Items/介绍.md
+      - Items/初步.md
+    - UI: 
+      - UI/介绍.md
+      - UI/初步.md
+  - 介绍:
+    - horizon由来: horizon_origin.md
+    - horizon详细: horizon_more.md
+    - 作者: author.md
+  - more.md
+extra_css:
+  - assets/css/style.css
+markdown_extensions:
+  - toc:
+      permalink: "#"
+extra:
+  alternate:
+    - name: 中文
+      link: /
+      lang: zh
+    - name: Einglish
+      link: /en/
+      lang: en
