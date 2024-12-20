@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "250a95e6e459bf6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a718ebc4a42ae1f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7410e9a40e29ba26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理层/2.2 数据通信的基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 数据通信的基础知识"
+            }
+          },
+          {
+            "id": "b422595a3024b9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "目录"
+            }
+          },
+          {
+            "id": "850170d668e66560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "目录"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8abedc117761207",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e554fa44b498ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2028acc6813e5393",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "16cdb3b1c6b9edca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4ebb84920cdc56d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14e4f61673476252",
+    "type": "split",
+    "children": [
+      {
+        "id": "54aa1047abc3edef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08aa908114a25b09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "目录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "目录 的反向链接列表"
+            }
+          },
+          {
+            "id": "024004a1c214ec24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "目录 的出链列表"
+            }
+          },
+          {
+            "id": "5eb453a553fe2d27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9a72622c58d8d185",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "目录.md"
+              },
+              "icon": "lucide-list",
+              "title": "目录 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "850170d668e66560",
+  "lastOpenFiles": [
+    "数据链路层/1.1demo.md",
+    "目录.md",
+    "数据链路层",
+    "物理层/2.2 数据通信的基础知识.md",
+    "物理层/2.1 物理层的基本概念.md",
+    "物理层/2.1物理层的基本概念.md",
+    "物理层/2.3 物理层下面的传输媒体.md"
+  ]
+}

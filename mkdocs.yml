@@ -1,95 +1,88 @@
-site_name: ICMOD WIKI
-repo_url: https://github.com/icmodtech/icmod-wiki
-repo_name: Visit our Repository
 edit_uri: tree/main/docs/
-site_url: https://wiki.icmod.tech
-use_directory_urls: false
-theme:
-  name: material
-  favicon: assets/favicon.svg
-  logo: assets/logo.svg
-  palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: cyan
-      accent: amber
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      accent: amber
-      primary: cyan
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  features: 
-    #导航栏
-    - navigation.tabs
-    #进度显示
-    - navigation.instant.progress
-    #返回顶部
-    - navigation.top
-    - content.action.edit
-    #代码复制按钮
-    - content.code.copy
-    #脚注提示
-    - content.footnote.tooltips
-  language: zh
-nav:
-  - 教程: 
-    - Guide: 
-      - Guide/介绍.md
-      - Guide/初步.md
-    - Blocks: 
-      - Blocks/介绍.md
-      - Blocks/初步.md
-    - Items: 
-      - Items/介绍.md
-      - Items/初步.md
-    - UI: 
-      - UI/介绍.md
-      - UI/初步.md
-  - 介绍:
-    - horizon由来: horizon_origin.md
-    - horizon详细: horizon_more.md
-    - 作者: author.md
-  - more.md
-  - 计算机网络: 
-    - 物理层:
-      - "计算机网络/物理层/2.1 物理层的基本概念.md"
-      - "计算机网络/物理层/2.2 数据通信的基础知识.md"
-      - "计算机网络/物理层/2.3 物理层下面的传输媒体.md"
-  - English: 
-    - English/冠词.md
-  - tags.md
-extra_css:
-  - assets/css/style.css
-  - assets/css/style1.css
-markdown_extensions:
-  - toc:
-      permalink: ⚓︎
-  - pymdownx.highlight:
-      anchor_linenums: true
-      auto_title: true
-      linenums: true
-  - pymdownx.superfences 
-  - admonition
-  - footnotes
 extra:
   consent:
+    description: We use cookies to recognize your repeated visits and preferences,
+      as well as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to make
+      our documentation better.
     title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+extra_css:
+- assets/css/style.css
+- assets/css/style1.css
+markdown_extensions:
+- toc:
+    permalink: ⚓︎
+- pymdownx.highlight:
+    anchor_linenums: true
+    auto_title: true
+    linenums: true
+- pymdownx.superfences
+- admonition
+- footnotes
+nav:
+- 教程:
+  - Guide:
+    - Guide/介绍.md
+    - Guide/初步.md
+  - Blocks:
+    - Blocks/介绍.md
+    - Blocks/初步.md
+  - Items:
+    - Items/介绍.md
+    - Items/初步.md
+  - UI:
+    - UI/介绍.md
+    - UI/初步.md
+- 介绍:
+  - horizon由来: horizon_origin.md
+  - horizon详细: horizon_more.md
+  - 作者: author.md
+- more.md
+- English:
+  - English/冠词.md
+- tags.md
+- 计算机网络:
+  - 物理层:
+    - 计算机网络/物理层/2.1 物理层的基本概念.md
+    - 计算机网络/物理层/2.2 数据通信的基础知识.md
+    - 计算机网络/物理层/2.3 物理层下面的传输媒体.md
+  - 数据链路层:
+    - 计算机网络/数据链路层/1.1demo.md
 plugins:
-  - search
-  - demo
-  - tags:
-      tags_file: tags.md
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - git-authors
+- search
+- demo
+- tags:
+    tags_file: tags.md
+- git-revision-date-localized:
+    enable_creation_date: true
+- git-authors
+repo_name: Visit our Repository
+repo_url: https://github.com/icmodtech/icmod-wiki
+site_name: ICMOD WIKI
+site_url: https://wiki.icmod.tech
+theme:
+  favicon: assets/favicon.svg
+  features:
+  - navigation.tabs
+  - navigation.instant.progress
+  - navigation.top
+  - content.action.edit
+  - content.code.copy
+  - content.footnote.tooltips
+  language: zh
+  logo: assets/logo.svg
+  name: material
+  palette:
+  - accent: amber
+    primary: cyan
+    scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - accent: amber
+    primary: cyan
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+use_directory_urls: false
