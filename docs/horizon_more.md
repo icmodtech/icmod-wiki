@@ -1,3 +1,11 @@
+---
+title: horizon详细
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+---
+
 以下内容摘自[Horizon](https://wiki.mcbe-dev.net/p/Horizon)
 
 **Horizon**是由Inner Core作者Zheka Smirnov 开发的实例型启动器，内部可以装载Inner Core作为实例进行启动。
