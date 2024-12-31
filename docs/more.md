@@ -75,7 +75,7 @@ print("Hello, World!") # 这是一个注释。(1)
 
 #table#
 
-```python
+```python title="bubble_sort.py" linenums="1"
 #[18，20]=18×20÷（18，20）=18×20÷2=180
 
 #最小公倍数=积/最大公约数

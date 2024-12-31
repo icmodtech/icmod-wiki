@@ -24,7 +24,6 @@ markdown_extensions:
 - pymdownx.highlight:
     anchor_linenums: true
     auto_title: true
-    linenums: true
 - pymdownx.superfences
 - admonition
 - neoteroi.timeline
@@ -46,7 +45,9 @@ markdown_extensions:
 - pymdownx.blocks.caption
 
 plugins:
-- pub-obsidian
+- pub-obsidian:
+    backlinks:
+      enabled: false
 - git-committers: 
     repository: icmodtech/icmod-wiki
     branch: main
@@ -84,6 +85,7 @@ theme:
   - navigation.top
   - content.action.edit
   - content.code.copy
+  - content.code.annotate
   - content.action.view
   - content.footnote.tooltips
   - navigation.footer
