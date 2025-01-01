@@ -1,3 +1,5 @@
+site_name: ICMOD WIKI
+site_url: https://wiki.icmod.tech
 copyright: Copyright &copy; 2024 - 2025 IcmodTech
 edit_uri: tree/main/docs/
 extra:
@@ -13,11 +15,9 @@ extra:
   - icon: fontawesome/brands/github
     link: https://github.com/icmodtech/icmod-wiki
 extra_css:
-- assets/css/style.css
-- assets/css/style1.css
-- assets/css/css-v1.1.0.css
+- assets/css/Crafting_Table.css
+- assets/stylesheets/css-v1.1.0.css
 #extra_javascript:
-#- assets/js/language_select.js
 markdown_extensions:
 - toc:
     permalink: ⚓︎
@@ -63,7 +63,7 @@ plugins:
           build: true
 - search
 - literate-nav:
-    nav_file: contents.md
+    nav_file: index.md
 - demo
 - tags:
     tags_file: tags.md
@@ -72,8 +72,6 @@ plugins:
 - glightbox
 repo_name: Repository
 repo_url: https://github.com/icmodtech/icmod-wiki
-site_name: ICMOD WIKI
-site_url: https://wiki.icmod.tech
 theme:
   favicon: assets/favicon.svg
   features:

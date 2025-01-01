@@ -1,203 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://wiki.icmod.tech/index.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/author.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/author.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/author.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/author.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/horizon_more.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/horizon_more.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/horizon_more.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/horizon_more.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/horizon_origin.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/horizon_origin.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/horizon_origin.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/horizon_origin.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/more.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/more.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/more.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/more.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Blocks/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/tags.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/tags.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/tags.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Blocks/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/English/%E5%86%A0%E8%AF%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/English/%E5%86%A0%E8%AF%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/English/%E5%86%A0%E8%AF%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/English/%E5%86%A0%E8%AF%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/English/%E6%97%B6%E6%80%81.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/English/%E6%97%B6%E6%80%81.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/English/%E6%97%B6%E6%80%81.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/English/%E6%97%B6%E6%80%81.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Guide/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Blocks/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Guide/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Items/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Blocks/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/Items/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Items/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/UI/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Items/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/UI/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/Items/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/blog/index.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/UI/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/blog/b.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/UI/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/index.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/Guide/UI/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/author.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/horizon_more.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/horizon_origin.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/more.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/tags.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Blocks/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Blocks/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/English/%E5%86%A0%E8%AF%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/English/%E6%97%B6%E6%80%81.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/author.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/author.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/author.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Guide/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/horizon_more.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/horizon_more.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/horizon_more.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Guide/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/horizon_origin.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/horizon_origin.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/horizon_origin.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Items/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/more.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/more.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/more.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/Items/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/tags.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/tags.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/tags.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/UI/%E4%BB%8B%E7%BB%8D.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/English/%E5%86%A0%E8%AF%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/English/%E5%86%A0%E8%AF%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/English/%E5%86%A0%E8%AF%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/UI/%E5%88%9D%E6%AD%A5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/English/%E6%97%B6%E6%80%81.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/English/%E6%97%B6%E6%80%81.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/English/%E6%97%B6%E6%80%81.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/blog/index.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/blog/b.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Blocks/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%9B%AE%E5%BD%95.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Blocks/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Blocks/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Blocks/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Items/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Items/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/Items/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/Items/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/Items/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/UI/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/index.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/en/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/UI/%E4%BB%8B%E7%BB%8D.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/%E4%BB%8B%E7%BB%8D.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/%E4%BB%8B%E7%BB%8D.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%9B%AE%E5%BD%95.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/Guide/UI/%E5%88%9D%E6%AD%A5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/Guide/UI/%E5%88%9D%E6%AD%A5.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/Guide/UI/%E5%88%9D%E6%AD%A5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%9B%AE%E5%BD%95.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%9B%AE%E5%BD%95.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.1%20%E7%89%A9%E7%90%86%E5%B1%82%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.2%20%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.3%20%E7%89%A9%E7%90%86%E5%B1%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BC%A0%E8%BE%93%E5%AA%92%E4%BD%93.html"/>
     </url>
     <url>
-         <loc>https://wiki.icmod.tech/tags.html</loc>
-         <lastmod>2024-12-30</lastmod>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/2.4%20%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF.html"/>
+    </url>
+    <url>
+        <loc>https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.icmod.tech/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.icmod.tech/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.html"/>
     </url>
 </urlset>
