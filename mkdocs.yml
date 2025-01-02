@@ -17,7 +17,8 @@ extra:
 extra_css:
 - assets/css/Crafting_Table.css
 - assets/stylesheets/css-v1.1.0.css
-#extra_javascript:
+extra_javascript:
+- assets\javascripts\background.js
 markdown_extensions:
 - toc:
     permalink: ⚓︎
