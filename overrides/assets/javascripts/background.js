@@ -1,3 +1,6 @@
+/*
+白色模式下显示方块背景
+*/
 window.addEventListener('resize', sizeChange);
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
