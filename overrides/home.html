@@ -38,21 +38,22 @@ This file was automatically generated - do not edit
         <img src="{{ 'assets/images/illustration.png' | url }}" alt="" width="1659" height="1200" draggable="false">
       </div>
       <div class="mdx-hero__content">
-        <h1>Technical documentation that just works</h1>
-        <p>{{ config.site_description }}. Set up in 5 minutes.</p>
-        <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}"
+        <h1>专为InnerCore而生的技术文档</h1>
+        <p>{{ config.site_description }}. 从入门到精通再到入土你都离不开它！</p>
+        <a href="{ 'Guide/' | url }}" title="快速开始"
           class="md-button md-button--primary">
-          Quick start
+          快速开始
         </a>
-        <a href="{{ 'insiders/' | url }}" title="Material for MkDocs Insiders" class="md-button">
-          Get Insiders
+        <a href="{{ 'horizon_origin.html' | url }}" title="了解更多" class="md-button">
+          了解更多
         </a>
       </div>
     </div>
   </div>
 </section>
 {% endblock %}
-{% block content %}{% endblock %}
+{% block content %}
+{% endblock %}
 <!-- Application footer -->
 {% block footer %}
 {{ super() }}
