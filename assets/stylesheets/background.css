@@ -1,0 +1,40 @@
+/*
+黑夜模式下隐藏方块背景
+*/
+[data-md-color-scheme="slate"] #myCanvas {
+    visibility: hidden;
+}
+
+.md-content {
+    background-image: url('../images/grass.png');
+    background-repeat: repeat-x;
+    flex-grow: 1;
+    min-width: 0;
+    height: 100%;
+    background-color: var(--md-default-bg-color);
+}
+
+.md-nav--secondary .md-nav__title {
+    background: var(--md-default-bg-color);
+    background-image: url('../images/grass.png');
+    padding-top: 17px;
+    padding-bottom: 3px;
+    background-repeat: repeat-x;
+    box-shadow: none !important;
+    position: sticky;
+    top: 0;
+    z-index: 1
+}
+
+.md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+    background: var(--md-default-bg-color);
+    background-image: url('../images/grass.png');
+    padding-top: 17px;
+    padding-bottom: 3px;
+    background-repeat: repeat-x;
+    box-shadow: none !important;
+    margin-top: 0;
+    position: sticky;
+    top: 0;
+    z-index: 1
+}
