@@ -1,0 +1,71 @@
+.invslot {
+    position: relative;
+    display: inline-block;
+    background: #8B8B8B no-repeat center center / 32px 32px;
+    border: 2px solid;
+    border-color: #373737 #FFF #FFF #373737;
+    box-sizing: content-box;
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    vertical-align: bottom
+}
+
+.invslot::before,.invslot::after {
+    content: "";
+    position: absolute;
+    background-color: #8B8B8B;
+    height: 2px;
+    width: 2px;
+    pointer-events: none
+}
+
+.invslot::before {
+    bottom: -2px;
+    left: -2px
+}
+
+.invslot::after {
+    top: -2px;
+    right: -2px
+}
+
+.invslot-large {
+    padding: 8px
+}
+
+.mcui {
+    display: inline-block;
+    position: relative;
+    background-color: #C6C6C6;
+    border: 2px solid;
+    border-color: #DBDBDB #5B5B5B #5B5B5B #DBDBDB;
+    padding: 6px;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: bottom
+}
+
+.mcui-Crafting_Table > *,.mcui-Furnace > * {
+    display: inline-block;
+    vertical-align: top
+}
+
+.mcui-Crafting_Table .mcui-row {
+    display: block
+}
+
+.mcui-Crafting_Table > .mcui-arrow {
+    background: url(https://zh.minecraft.wiki/images/Grid_layout_Arrow_%28small%29.png?ab3d9) no-repeat;
+    width: 32px;
+    height: 26px;
+    margin: 40px 4px 0
+}
+
+.mcui-Crafting_Table > .mcui-output {
+    margin-top: 28px
+}
+
+
