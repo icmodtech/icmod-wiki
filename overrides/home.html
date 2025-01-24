@@ -1,0 +1,82 @@
+{#-
+This file was automatically generated - do not edit
+-#}
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>
+  .md-header {
+    position: initial
+  }
+
+  .md-main__inner {
+    margin: 0
+  }
+
+  .md-content {
+    display: none
+  }
+
+  @media screen and (min-width:60em) {
+    .md-sidebar--secondary {
+      display: none
+    }
+  }
+
+  @media screen and (min-width:76.25em) {
+    .md-sidebar--primary {
+      display: none
+    }
+  }
+  [class~=homecontent]>a{
+    display: none;
+  }
+  [class~=homecontent]>a+a{
+    display: none;
+  }
+  [class~=homecontent]>a+a+h1{
+    display: none;
+  }
+  [class~=homecontent]>a+a+h1+ul li{
+    display: none;
+  }
+  .md-source-file{
+    display: none;
+  }
+ #myCanvas {
+    visibility: hidden;
+}
+</style>
+<section class="mdx-container">
+  <div class="md-grid md-typeset">
+    
+    <div class="mdx-hero">
+      
+      <div class="mdx-hero__image">
+        <img src="{{ 'assets/images/illustration.png' | url }}" alt="" width="1659" height="1200" draggable="false">
+      </div>
+      <div class="mdx-hero__content">
+        <h1>ICMOD WIKI</h1>
+        <h2>欢迎来到 ICMod Wiki！</h2>
+        <p>{{ config.site_description }}</p>
+        <a href="{{ 'Guide/' | url }}" title="快速开始"
+          class="md-button md-button--primary">
+          快速开始
+        </a>
+        <a href="{{ 'horizon_origin/' | url }}" title="了解更多" class="md-button">
+          了解更多
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="md-content__inner md-typeset homecontent">
+  {% block content %}
+  {{ super() }}
+  {% endblock %}
+</div>
+{% endblock %}
+<!-- Application footer -->
+{% block footer %}
+{{ super() }}
+{% endblock %}

@@ -1,36 +1,51 @@
-<ul class="timeline">
-        <li class="timeline-event">
-            <label class="timeline-event-icon"></label>
-            <div class="timeline-event-copy">
-                <p class="timeline-event-thumbnail">April 2011 - heute</p>
-                <h3>Geil,Danke! GmbH</h3>
-                <h4>Geschäftsführerin eines Web-Studios</h4>
-                <p><strong>Schwerpunkt: Frontend-Entwicklung</strong><br>Entwickeln von anspruchsvollen, animierten,
-                    responsive und adaptive Webseiten mit HTML5, SCSS, jQuery; für alle Browser, optimiert für
-                    Desktop, Notebook, Smartphones und Tablets (iOS, Android, Windows).</p>
-                <p><strong>Projektmanagement mit Scrum</strong><br>Ständiges Verbessern des agilen Entwicklungsprozesses
-                    beispielsweise durch Grunt, Yeoman, GIT, JIRA und BrowserStack.</p>
-            </div>
-        </li>
-        <li class="timeline-event">
-            <label class="timeline-event-icon"></label>
-            <div class="timeline-event-copy">
-                <p class="timeline-event-thumbnail">November 2009 - März 2011</p>
-                <h3>Freelancer</h3>
-                <h4>Designer und Autor</h4>
-                <p>Konzeption, Design und Produktion von Digitalen Magazinen mit InDesign, der Adobe Digital Publishing
-                    Suite und HTML5. Co-Autorin der Fachbücher "Digitales Publizieren für Tablets" und "Adobe Digital
-                    Publishing Suite" erschienen im dpunkt.verlag.</p>
-            </div>
-        </li>
-        <li class="timeline-event">
-            <label class="timeline-event-icon"></label>
-            <div class="timeline-event-copy">
-                <p class="timeline-event-thumbnail">April 2011 - heute</p>
-                <h3>konplan gmbh</h3>
-                <h4>IT-Consultant</h4>
-                <p><strong>Systemarchitektur, Consulting</strong><br>Konzeption und Modellierung von Systemen und APIs
-                    für Digital Publishing und Entitlement nach SOA</p>
-            </div>
-        </li>
-    </ul>
+---
+template: home.html
+title: Home
+search:
+  exclude: true
+---
+
+* 介绍
+    * [horizon由来](horizon_origin.md)
+    * [horizon详细](horizon_more.md)
+    * [作者](author.md)
+* [教程](Guide/)
+* [TAG](tags.md)
+* [帮助](help/)
+
+<div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+
+    ---
+
+    Install [`mkdocs-material`](#) with [`pip`](#) and get up
+    and running in minutes
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
+</div>

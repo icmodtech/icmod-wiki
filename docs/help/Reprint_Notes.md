@@ -1,0 +1,1 @@
+你可以阅读当地的著作权相关的法律以及[知识共享署名](https://creativecommons.org/share-your-work/cclicenses/)。
