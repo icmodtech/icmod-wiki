@@ -28,21 +28,11 @@ This file was automatically generated - do not edit
       display: none
     }
   }
-  [class~=homecontent]>a{
+  
+  [class~=homecontent] ul:first-of-type li{
     display: none;
   }
-  [class~=homecontent]>a+a{
-    display: none;
-  }
-  [class~=homecontent]>a+a+h1{
-    display: none;
-  }
-  [class~=homecontent]>a+a+h1+ul li{
-    display: none;
-  }
-  .md-source-file{
-    display: none;
-  }
+
  #myCanvas {
     visibility: hidden;
 }
@@ -72,7 +62,7 @@ This file was automatically generated - do not edit
 </section>
 <div class="md-content__inner md-typeset homecontent">
   {% block content %}
-  {{ super() }}
+  {{ page.content }}
   {% endblock %}
 </div>
 {% endblock %}
