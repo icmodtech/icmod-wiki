@@ -26,5 +26,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-minify-plugin mkdocs-publisher mkdocs-material mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin ./demo-0.0.0.tar.gz mkdocs-glightbox neoteroi-mkdocs mkdocs-literate-nav mkdocs-video mkdocs-static-i18n
+      - run: pip install beautifulsoup4 mkdocs-minify-plugin mkdocs-publisher mkdocs-material mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin ./demo-0.0.0.tar.gz mkdocs-glightbox neoteroi-mkdocs mkdocs-literate-nav mkdocs-video mkdocs-static-i18n
       - run: mkdocs gh-deploy --force

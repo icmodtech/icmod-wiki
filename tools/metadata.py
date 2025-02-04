@@ -19,7 +19,8 @@ from mkdocs.config.defaults import MkDocsConfig
 from pathlib import Path
 from mkdocs.structure.files import Files
 from mkdocs.config import Config
-
+import re
+from bs4 import BeautifulSoup
 #操作meta
 class HTMLModifier:
     def __init__(self,meta):
@@ -96,9 +97,33 @@ def on_page_markdown(markdown, page:Page, config, files):
         #add
         page.meta["meta"]=html_modifier.get
 
+def get_p_text_after_h1(html):
+    # 创建 BeautifulSoup 对象，使用 html.parser 解析 HTML
+    soup = BeautifulSoup(html, 'html.parser')
+    # 查找 id 为 _1 的 h1 元素
+    h1_element = soup.find('h1')
+    if h1_element:
+        # 查找紧跟 h1 元素后的第一个 p 元素
+        next_sibling = h1_element.next_sibling
+        while next_sibling and next_sibling.name is None:
+            next_sibling = next_sibling.next_sibling
+        if next_sibling and next_sibling.name == 'p':
+            # 若找到 p 元素，返回其文本内容
+            return next_sibling.get_text()
+    # 若 h1 元素不存在或者其后没有 p 元素，返回 False
+    return False
+
 #添加<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 def on_page_context(context, page, config, nav):
         if page.meta.get("tags"):
             html_modifier = HTMLModifier(page.meta.get("meta", []))
             html_modifier.add_meta_keywords(page.meta["tags"])
             page.meta["meta"]=html_modifier.get
+
+#将meta name=description设置为紧跟 h1 元素后的第一个 p 元素
+def on_post_page(output: str, *, page: Page, config: MkDocsConfig):
+    description = page.meta.get('description', None)
+    p=get_p_text_after_h1(output)
+    if p and not description:
+        output=re.sub(r'<meta name=description[^>]*>','<meta name=description content="'+ p +'">',output)
+    return output

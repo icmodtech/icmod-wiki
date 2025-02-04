@@ -1,5 +1,6 @@
 # 文档语法
 
+我们会告诉你如何从零编写Wiki页面。该页面总结了常用元素的使用方法，你可以在这里查看预期的效果。
 ## 内联元素
 
 ### 编辑标记([Critic](https://facelessuser.github.io/pymdown-extensions/extensions/critic/))

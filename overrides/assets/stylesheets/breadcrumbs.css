@@ -1,0 +1,16 @@
+[aria-label="面包屑导航"] ol{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+[aria-label="面包屑导航"] li {
+    display: inline;
+}
+[aria-label="面包屑导航"] a:hover {
+    text-decoration: underline;
+}
+[aria-label="面包屑导航"] li:not(:last-child)::after {
+    content: '>';
+    margin: 0 5px;
+    color: #999;
+}
