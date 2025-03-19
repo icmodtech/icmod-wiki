@@ -18,7 +18,7 @@ function sizeChange() {
     //横向晶格数量
     xBoxIength = (canvas.width / boxSize).toFixed() + 1
     //纵向晶格数量
-    yBoxIength = (canvas.height / boxSize).toFixed()
+    yBoxIength = (canvas.height / boxSize).toFixed()+ 1
     angle = 0;
     unitangle=Math.PI/100
     polygonVertices = []
